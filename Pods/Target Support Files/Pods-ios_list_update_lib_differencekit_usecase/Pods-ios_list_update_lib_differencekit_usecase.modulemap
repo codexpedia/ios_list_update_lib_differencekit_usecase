@@ -1,0 +1,6 @@
+framework module Pods_ios_list_update_lib_differencekit_usecase {
+  umbrella header "Pods-ios_list_update_lib_differencekit_usecase-umbrella.h"
+
+  export *
+  module * { export * }
+}
